@@ -1,2 +1,2 @@
 # Franppy-Bardi-Codes
- Non-comercial game created for studies
+ Non-commercial game created for studies
